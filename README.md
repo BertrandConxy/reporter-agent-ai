@@ -38,18 +38,10 @@ To kickstart your crew of AI agents and begin task execution, run this from the 
 ```bash
 crewai run
 ```
+This command initializes the Reporter-agent-crewai Crew, assembling the agents and assigning them tasks as defined in your configuration.
 
 ## Demo
 ![Demo](demo_1.png)
 ![Demo](demo_2.gif)
 
-This command initializes the Reporter-agent-crewai Crew, assembling the agents and assigning them tasks as defined in your configuration.
-
 This example, unmodified, will run the create a `report.md` file with the output of a research on LLMs in the root folder.
-
-## Support
-
-For support, questions, or feedback regarding the ReporterAgentCrewai Crew or crewAI.
-- Visit our [documentation](https://docs.crewai.com)
-- Reach out to us through our [GitHub repository](https://github.com/joaomdmoura/crewai)
-- [Join our Discord](https://discord.com/invite/X4JWnZnxPb)
